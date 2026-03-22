@@ -1,0 +1,10 @@
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Base de datos local
+instance/database.db
+
+# Carpeta de configuración de VSCode
+.vscode/
+
