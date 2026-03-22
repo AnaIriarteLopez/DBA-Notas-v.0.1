@@ -1,21 +1,22 @@
-# Base de Datos para ejercicios de practica
+# Base de Datos para Prácticas
 
-## Setup e instalacion
+Este proyecto es una aplicación web simple construida con Flask.
 
-```bash
-git clone <repo-url>
-```
+## Configuración e Instalación
 
-```bash
-pip install -r requirements.txt
-```
+1.  **Clonar el repositorio:**
 
-## Running The App
+    ```bash
+    git clone <URL-del-repositorio>
+    ```
+
+2.  **Instalar dependencias:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Ejecutar la Aplicación
 
 ```bash
 python main.py
 ```
-
-## Viewing The App
-
-Go to `http://127.0.0.1:5000`
